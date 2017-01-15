@@ -1,0 +1,54 @@
+[ 2016-11-10T10:05:58+08:00 ] ::1 /text/index.php/Admin/Index/upload
+ERR: 非法操作:upload
+
+[ 2016-11-10T10:14:38+08:00 ] ::1 /text/index.php/Admin/Index/upload
+ERR: 非法操作:upload
+
+[ 2016-11-10T10:16:13+08:00 ] ::1 /text/index.php/Admin/Index/upload
+ERR: 非法操作:upload
+
+[ 2016-11-10T10:21:39+08:00 ] ::1 /text/index.php/Admin/Index/upload
+ERR: 非法操作:upload
+
+[ 2016-11-10T10:21:43+08:00 ] ::1 /text/index.php/Admin/Index/upload
+ERR: 非法操作:upload
+
+[ 2016-11-10T10:33:27+08:00 ] ::1 /text/admin
+ERR: 模板不存在:./Weibo/Admin/View/Upload/upload.html
+
+[ 2016-11-10T10:33:31+08:00 ] ::1 /text/admin
+ERR: 模板不存在:./Weibo/Admin/View/Upload/upload.html
+
+[ 2016-11-10T10:33:37+08:00 ] ::1 /text/admin
+ERR: 模板不存在:./Weibo/Admin/View/Upload/upload.html
+
+[ 2016-11-10T10:33:38+08:00 ] ::1 /text/admin
+ERR: 模板不存在:./Weibo/Admin/View/Upload/upload.html
+
+[ 2016-11-10T10:49:57+08:00 ] ::1 /text/index.php/Admin/Index/Upload.html
+ERR: 非法操作:Upload
+
+[ 2016-11-10T10:50:12+08:00 ] ::1 /text/index.php/Admin/Index/Upload.html
+ERR: 非法操作:Upload
+
+[ 2016-11-10T10:51:21+08:00 ] ::1 /text/index.php/Admin/Index/Upload.html
+ERR: 非法操作:Upload
+
+[ 2016-11-10T10:51:45+08:00 ] ::1 /text/index.php/Admin/Index/Upload.html
+ERR: 非法操作:Upload
+
+[ 2016-11-10T10:58:08+08:00 ] ::1 /text/admin
+ERR: 无法加载控制器:Index
+
+[ 2016-11-10T12:01:36+08:00 ] ::1 /text/index.php/Admin/Index/child.html
+ERR: Think\Model:child方法不存在！
+
+[ 2016-11-10T13:54:52+08:00 ] ::1 /text/admin/child.html
+ERR: 无法加载控制器:Child
+
+[ 2016-11-10T14:05:58+08:00 ] ::1 /text/admin/child.html
+ERR: 无法加载控制器:Child
+
+[ 2016-11-10T14:12:02+08:00 ] ::1 /text/admin/child.html
+ERR: 无法加载控制器:Child
+
